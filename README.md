@@ -2,6 +2,8 @@
 
 Diffusion model for unconditional image generation of [Bored Apes](https://opensea.io/collection/boredapeyachtclub)
 
+The trained [Model](https://huggingface.co/daspartho/bored-ape-diffusion) is uploaded on HuggingFace Hub.
+
 ## Example
 ![example](https://user-images.githubusercontent.com/59410571/205454220-eb365897-7239-4feb-8826-4203ac651c6c.png)
 
@@ -19,8 +21,6 @@ image
 The model is trained on [this dataset](https://huggingface.co/datasets/daspartho/bored-ape) of 10000 Bored Ape images I've uploaded on HuggingFace Hub.
 
 Notebook for training the model is available [here](https://github.com/daspartho/bored-ape-diffusion/blob/main/main.ipynb).
-
-The trained [Model](https://huggingface.co/daspartho/bored-ape-diffusion) is uploaded on HuggingFace Hub.
 
 ## Acknowledgement
 
